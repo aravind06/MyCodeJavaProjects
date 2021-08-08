@@ -1,0 +1,2 @@
+# MyCodeJavaProjects
+Basic Java projects
